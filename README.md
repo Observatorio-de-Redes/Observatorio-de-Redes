@@ -1,5 +1,3 @@
-# Observatorio-de-Redes
-
 ## Hola 👋, somos el [Observatorio de Redes!](https://github.com/Observatorio-de-Redes/)
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://medium.com/@O_de_R)
@@ -43,7 +41,7 @@ Somos un grupo de investigadores de la Carrera de Ciencia Politica 🎓 en la Un
 -->
 
 ### Proyectos en los que trabajamos:
-
+<details>
  <table>
     <thead align="center">
       <tr border: none;>
@@ -70,7 +68,5 @@ Somos un grupo de investigadores de la Carrera de Ciencia Politica 🎓 en la Un
 </details>
 
 <div align="center">
-
 ### Si te gusta lo que hacemos compartilo ❤️!
-
 </div>
