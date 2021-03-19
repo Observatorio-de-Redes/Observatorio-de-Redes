@@ -1,7 +1,6 @@
 ## Hola 👋, somos el [Observatorio de Redes!](https://github.com/Observatorio-de-Redes/)
 
-<!--
-**Observatorio-de-Redes/Observatorio-de-Redes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://medium.com/@O_de_R)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/O_de_R)
@@ -73,4 +72,6 @@ Somos un grupo de investigadores de la Carrera de Ciencia Politica 🎓 en la Un
 <div align="center">
 ### Si te gusta lo que hacemos compartilo ❤️!
 </div>
+<!--
+**Observatorio-de-Redes/Observatorio-de-Redes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
