@@ -73,6 +73,6 @@ Somos un grupo de investigadores de la Carrera de Ciencia Politica 🎓 en la Un
 </details>
 
 <div align="center">
-### Si te gusta lo que hacemos compartilo ❤️!
+###Si te gusta lo que hacemos compartilo ❤️!
 </div>
 
